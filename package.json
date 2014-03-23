@@ -1,0 +1,30 @@
+{
+  "name": "scotchumentary",
+  "version": "0.0.1",
+  "description": "code for #scotchumentary website",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirps/scotchumentary.git"
+  },
+  "keywords": [
+    "scotch",
+    "single",
+    "malt",
+    "whisky",
+    "booze"
+  ],
+  "author": "kirps",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/kirps/scotchumentary/issues"
+  },
+  "homepage": "https://github.com/kirps/scotchumentary",
+  "dependencies": {
+    "logfmt": "^1.0.0",
+    "express": "^3.5.0"
+  }
+}
